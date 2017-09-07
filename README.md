@@ -32,3 +32,31 @@ For your homework:
 	1. Other interesting things
 1. Answer the question whats is the difference between **Github Flavored Markdown**  (GFM) and regular markdown?
 1. Find out how to do a checkbox in a list using GFM.
+
+
+You can do code blocks in markdown, and even have it highlighted in the right colors for the appropriated kind of code. for example, here's some HTML:
+
+```html
+<h1>Hello World</h1>
+<p>You should really get into learning about CSS grid and Flexbox!<p>
+```
+
+Here is and example of C# Code
+
+```Csharp
+public class Greeter
+{
+	private string_Greeting = "Hello World";
+	private string_Goodbye;
+}
+
+	public Greeter(string greeting, string goodbyw)
+	{
+		_Greeting = greeting;
+		_Goodbye = goodbye;
+	}
+	
+	public string SayHello()
+	{
+		return_Greeting;
+	}
