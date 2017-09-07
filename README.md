@@ -2,7 +2,7 @@
 
 > notes by Brian Fortuin
 
-The line above is equivalent to an  '<h1>Throw Away</h1>' HTML markup.
+The line above is equivalent to an  `<h1>Throw Away</h1>` HTML markup.
 
 The idea of  markdown files is to make it easier to write text that you want to have some sort of **richeness** to it, but dont want to get hung up on the details of markup (HTML) or having to resort to more 'binary representation such as in MS Word.
 
@@ -16,7 +16,7 @@ Markdown can produce lists just like this:
 
 ## Other examples
 
-THe line above is equivalent to an <h2> element. (Note 2 pound symbols - you can have up to six!)
+The line above is equivalent to an <h2> element.</h2> (Note 2 pound symbols - you can have up to six!)
 
 For your homework:
 
@@ -25,7 +25,7 @@ For your homework:
 	1. Lists (undordered/ordered)
 	1. Code snippets (like <h1>Code</h1>)
 	1. Code blocks (multiple lines of codes)
-	1. **Bold and *Italic*
+	1. **Bold** and *Italic*
 	1. Tables
 	1. Hyperlinks (eg: google home page (www.google.com)
 	1. Images
